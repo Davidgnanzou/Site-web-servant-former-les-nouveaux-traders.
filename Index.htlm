@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Renaissance Trading</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Renaissance Trading</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Accueil</a></li>
+                <li><a href="#about">À Propos</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Bienvenue sur Renaissance Trading</h2>
+            <p>Une plateforme pour aider les traders débutants à devenir des pros.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Renaissance Trading</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
